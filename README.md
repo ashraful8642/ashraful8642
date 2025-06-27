@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ashraful8642
 - 👀 I’m interested in Programming/Coding
 - 🌱 I’m currently practicing Programming/Coding 
-- 💞️ I’m looking to collaborate on International Programmers
+- 💞️ I’m looking to collaborate with International Programmers
 - 📫 How to reach me: ashraful8642@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am single
